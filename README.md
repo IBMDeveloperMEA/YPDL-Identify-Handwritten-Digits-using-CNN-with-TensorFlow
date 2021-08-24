@@ -50,3 +50,14 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 4.	Once the service instance is ready, you will be redirected to the Watson Studio page. Click on the “Get Started” button to launch Watson Studio in a new tab. This might take few minutes to set up the service.
 
 5.	Under the heading “work with data” you will find a link that says, “Create a project”. Click on “Create a project”. Next, click on “Create an empty project”.
+
+
+![gif 2](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/ypdl%20gif.gif?raw=true)
+
+6.	On the new project page, give your project a name. You will also need to associate an IBM Cloud Object Storage instance to store the data set.
+
+7.	Under “Select Storage Service”, click on the “Add” button. This takes you to the IBM Cloud Object Store service page. Leave the service on the “Lite” tier and then click the “Create” button at the bottom of the page. You are prompted to name the service and choose the resource group. Once you give a name, click “Create”.
+
+8.	Once the instance is created, you’re taken back to the project page. Click on “refresh” and you should see your newly created Cloud Object Storage instance under Storage.
+
+9.	Click the “Create” button at the bottom right of the page to create your project.
