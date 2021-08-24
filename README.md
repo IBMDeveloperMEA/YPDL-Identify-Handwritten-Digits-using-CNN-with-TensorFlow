@@ -23,9 +23,11 @@ Slides:
 
 Workshop Replay: https://www.crowdcast.io/e/ypdl-2
 
-Sign-up/Login to IBM Cloud
+## Workshop Tutorial
 
-If you are an existing user please login to IBM Cloud
+### Step 1. Sign-up/Login to IBM Cloud
+
+If you are an existing user please login to IBM Cloud using this link: https://ibm.biz/YourPathToDeepLearning
 
 And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on IBM Cloud: 
 1- Put your email and password. 
