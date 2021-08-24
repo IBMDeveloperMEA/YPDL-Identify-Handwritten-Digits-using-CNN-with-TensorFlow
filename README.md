@@ -36,3 +36,17 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 ** Please make sure you select the country you are in when asked at any step of the registration process.
 
 ![IBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
+
+### Step 2. Create Watson Studio service 
+
+![gif 1](https://github.com/Anam-Mahmood/Unlock-the-Power-of-Machine-Learning-in-Virtual-Assistants-to-automate-Loan-Applications/blob/main/images/gif%201.gif?raw=true)
+
+1.	Login to your IBM Cloud account: https://ibm.biz/YourPathToDeepLearning
+ 
+2.	Within your IBM Cloud account, click on the top search bar to search for cloud services and offerings. Type in “Watson Studio” and then click on Watson Studio under “Catalog Results”.
+
+3.	This takes you to the Watson Studio service page. Select a region, “Lite” plan (Free) and give your service a unique name. Click on “Create” and this creates a Watson Studio instance for you.
+
+4.	Once the service instance is ready, you will be redirected to the Watson Studio page. Click on the “Get Started” button to launch Watson Studio in a new tab. This might take few minutes to set up the service.
+
+5.	Under the heading “work with data” you will find a link that says, “Create a project”. Click on “Create a project”. Next, click on “Create an empty project”.
