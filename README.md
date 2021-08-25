@@ -19,7 +19,7 @@ Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
 Hands-On Guide: https://github.com/IBMDeveloperMEA/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow
 
-Slides: 
+Slides: https://ibmdevelopermea.github.io/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/#/
 
 Workshop Replay: https://www.crowdcast.io/e/ypdl-2
 
@@ -83,3 +83,14 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 And that's it! Your notebook is all set to run! 
  ![Notebook ready to run](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/notebook%20loads.png?raw=true)
+ 
+## Workshop Resources
+
+Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
+
+Hands-On Guide: https://github.com/IBMDeveloperMEA/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow
+
+Slides: https://ibmdevelopermea.github.io/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/#/
+
+Workshop Replay: https://www.crowdcast.io/e/ypdl-2
+
