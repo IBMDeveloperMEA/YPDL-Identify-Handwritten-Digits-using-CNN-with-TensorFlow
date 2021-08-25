@@ -23,6 +23,9 @@ Slides:
 
 Workshop Replay: https://www.crowdcast.io/e/ypdl-2
 
+Survey: ibm.biz/YPDL-Survey
+
+
 ## Workshop Tutorial
 
 ### Step 1. Sign-up/Login to IBM Cloud
