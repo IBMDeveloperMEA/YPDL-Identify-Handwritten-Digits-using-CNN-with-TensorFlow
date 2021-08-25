@@ -17,7 +17,7 @@ Create a Deep Learning Neural Network and apply on MNIST.
 
 Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
-Hands-On Guide: 
+Hands-On Guide: https://github.com/IBMDeveloperMEA/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow
 
 Slides: 
 
