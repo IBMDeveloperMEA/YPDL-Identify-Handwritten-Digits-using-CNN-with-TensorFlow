@@ -23,7 +23,8 @@ Slides:
 
 Workshop Replay: https://www.crowdcast.io/e/ypdl-2
 
-Survey: ibm.biz/YPDL-Survey
+Survey: [ibm.biz/YPDL-Survey](ibm.biz/YPDL-Survey)
+
 
 
 ## Workshop Tutorial
