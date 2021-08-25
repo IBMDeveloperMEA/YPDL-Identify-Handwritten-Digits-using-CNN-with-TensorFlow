@@ -51,13 +51,35 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 5.	Under the heading “work with data” you will find a link that says, “Create a project”. Click on “Create a project”. Next, click on “Create an empty project”.
 
+### Step 3. Create Cloud Object Storage
 
 ![gif 2](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/ypdl%20gif.gif?raw=true)
 
-6.	On the new project page, give your project a name. You will also need to associate an IBM Cloud Object Storage instance to store the data set.
+1.	On the new project page, give your project a name. You will also need to associate an IBM Cloud Object Storage instance to store the data set.
 
-7.	Under “Select Storage Service”, click on the “Add” button. This takes you to the IBM Cloud Object Store service page. Leave the service on the “Lite” tier and then click the “Create” button at the bottom of the page. You are prompted to name the service and choose the resource group. Once you give a name, click “Create”.
+2.	Under “Select Storage Service”, click on the “Add” button. This takes you to the IBM Cloud Object Store service page. Leave the service on the “Lite” tier and then click the “Create” button at the bottom of the page. You are prompted to name the service and choose the resource group. Once you give a name, click “Create”.
 
-8.	Once the instance is created, you’re taken back to the project page. Click on “refresh” and you should see your newly created Cloud Object Storage instance under Storage.
+3.	Once the instance is created, you’re taken back to the project page. Click on “refresh” and you should see your newly created Cloud Object Storage instance under Storage.
 
-9.	Click the “Create” button at the bottom right of the page to create your project.
+4.	Click the “Create” button at the bottom right of the page to create your project.
+
+### Step 4. Create Notebook
+
+![create notebook](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/create%20notebook.png?raw=true)
+
+1. On the top right of you page, click on "Add to project".
+
+2. A pop box will appear, from their click on "Notebook".
+
+![create notebook from URL](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/from%20url.png?raw=true)
+
+3. On the new page for New Notebook, click on "From URL".
+
+4. Give your notebook a name. 
+
+5. Make sure your runtime is "Default Python 3.8 XS (2 vCPU 8 GB RAM).
+
+6. And in the "Notebook URL" enter this link: ``` https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/CNN-MNIST-Dataset.ipynb```
+
+And that's it! Your notebook is all set to run! 
+ ![Notebook ready to run](https://github.com/Anam-Mahmood/YPDL-Identify-Handwritten-Digits-using-CNN-with-TensorFlow/blob/main/images/notebook%20loads.png?raw=true)
