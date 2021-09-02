@@ -94,3 +94,26 @@ Slides: https://ibmdevelopermea.github.io/YPDL-Identify-Handwritten-Digits-using
 
 Workshop Replay: https://www.crowdcast.io/e/ypdl-2
 
+## Check out the event on other streaming platforms
+- LinkedIn - https://www.linkedin.com/events/yourpathtodeeplearning6828696278394802176/
+
+- Twitch - https://www.twitch.tv/videos/1129014153
+
+- Twitter - https://twitter.com/mridulrb/status/1430530795492364291?s=20
+
+- YouTube - https://youtu.be/u8w4Opo8_C0
+
+- Periscope - https://www.periscope.tv/w/1kvJpobdVAVGE
+
+- Facebook - https://www.facebook.com/100003349938697/videos/900278764166180/
+
+## Links to the next sessions in Your Path to Deep Learning
+
+- 30th August - 6PM-8PM (GST) 
+    -  Language Processing using Recurrent Neural Networks with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-3
+
+- 1st September - 6PM-8PM (GST)
+    -  Personalized Recommendation Engines with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-4
+
